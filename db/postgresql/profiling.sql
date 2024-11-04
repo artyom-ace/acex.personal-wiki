@@ -1,0 +1,1 @@
+- Чтаем план PostgreSQL <https://youtu.be/sgC9LIj-6fM?t=1185>
