@@ -3,3 +3,7 @@ a grocer’s website, accounting for things such as spelling mistakes.
 
 NoSQL DB,  JSON documents – primary store of data.
 
+### Usefully software
+- elastic view
+- opensearch
+- elasticsearch

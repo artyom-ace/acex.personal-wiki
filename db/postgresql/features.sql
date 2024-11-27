@@ -1,0 +1,1 @@
+ - select array_length(ARRAY[]::text[], 1);     -- null !!!
