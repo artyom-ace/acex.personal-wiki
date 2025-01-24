@@ -1,5 +1,7 @@
 -- convert any datetime value to date beginning in utc
 
+SELECT  date_trunc('day', '2024-02-29 22:10:00.000000 +0000', 'Europe/Kiev');
+
 DO $$
     DECLARE vTime_org timestamptz;
     DECLARE vTime_mod timestamptz;
