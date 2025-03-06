@@ -3,7 +3,11 @@
 -- Kubernetes -- for large scale
 -- OpenShift -- for enterprise
 
--- Lens -- Kubernetes IDE
--- OpenLens (https://github.com/MuhammedKalkan/OpenLens) -- Kubernetes IDE
+### Kubernetes IDEs
+-- Lens ???
+-- OpenLens (https://github.com/MuhammedKalkan/OpenLens) +++
+-- FreeLens (https://github.com/freelensapp/freelens)
+-- Monokle https://monokle.io/ ???
+
 -- k9s (https://k9scli.io/) -- Kubernetes CLI
--- Monokle https://monokle.io/ -- Kubernetes IDE
+

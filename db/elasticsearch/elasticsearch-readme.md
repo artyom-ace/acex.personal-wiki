@@ -7,3 +7,6 @@ NoSQL DB,  JSON documents – primary store of data.
 - elastic view
 - opensearch
 - elasticsearch
+
+### Features
+- only for acceleration frontend
