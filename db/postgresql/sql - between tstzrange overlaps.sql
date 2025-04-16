@@ -48,4 +48,5 @@ SELECT '2001-10-01'::DATE <= '2001-11-01'::::TIMESTAMPTZ  AND  '2001-11-01'::DAT
 
 -- TSTZRANGE can use GIST index or SP-GiST index (more effective for ranges)
 -- https://www.postgresql.org/docs/current/spgist.html
-CREATE INDEX idx_period_range ON tab USING GIST (tstzrange(period_begin, period_end, '[]'));
+CREATE INDEX table__period_range ON _table_ USING GIST (tstzrange(period_begin, period_end, '[]'));
+CREATE INDEX table__period_range ON _table_ USING GIST (tstzrange(period_begin, period_end, '[)'));
