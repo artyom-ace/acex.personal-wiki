@@ -1,3 +1,10 @@
+#### Library for monitoring and managing
+Flower - is an open-source web application for monitoring and managing Celery clusters. (https://github.com/mher/flower)
+
+
+
+
+
 ### default run command for worker
 env.COMMAND_WORKER = '["celery", "-A", "config", "worker", "-c 4", "--loglevel=info", "--max-tasks-per-child=1"]'
 ### debug run command for worker

@@ -1,9 +1,19 @@
-### https://loguru.readthedocs.io/en/stable/overview.html
-### https://opentelemetry-python.readthedocs.io/en/stable/examples/
+# ----------------------------------------------------------------------------------------------------------------------
+# fastapi + opentelemetry
+# ----------------------------------------------------------------------------------------------------------------------
+### https://github.com/open-telemetry/opentelemetry-python-contrib/tree/main/instrumentation/opentelemetry-instrumentation-fastapi
+
+
+
+
+
 
 # ----------------------------------------------------------------------------------------------------------------------
 # loguru + opentelemetry
 # ----------------------------------------------------------------------------------------------------------------------
+
+### https://loguru.readthedocs.io/en/stable/overview.html
+### https://opentelemetry-python.readthedocs.io/en/stable/examples/
 
 # logger.py ------------------------------------------------------------------------------------------------------------
 
